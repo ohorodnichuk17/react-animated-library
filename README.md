@@ -1,8 +1,11 @@
-# React + Vite
+# Framer Motion Demo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a demo application built using the `framer-motion` library. The app demonstrates animation techniques for UI components, focusing on creating dynamic user interactions with smooth transitions. The project was created as part of learning the `framer-motion` library.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Badge Component**: A simple animated badge that scales when rendered.
+- **Challenge Tracker**: A full challenge tracking system with animated challenge items.
+- **Dynamic Tabs**: Tabs to filter challenges by status with smooth transitions and indicator animations.
+- **Modal Window**: Animated modal dialog for adding new challenges.
+- **Parallax Effect**: A parallax scroll effect on the welcome page for visual appeal.
